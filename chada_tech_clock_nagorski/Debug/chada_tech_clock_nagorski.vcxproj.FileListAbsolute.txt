@@ -1,0 +1,2 @@
+U:\chada_tech_clock_nagorski\Debug\chada_tech_clock_nagorski.exe
+U:\chada_tech_clock_nagorski\Debug\chada_tech_clock_nagorski.pdb
